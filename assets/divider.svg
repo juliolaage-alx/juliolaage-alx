@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="60" viewBox="0 0 840 60" role="img" aria-label="Capítulo 02 em andamento">
+<style>
+  .m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+  .dot{animation:p 1.6s ease-in-out infinite}
+  @keyframes p{50%{opacity:.2}}
+  @media (prefers-reduced-motion:reduce){.dot{animation:none}}
+</style>
+<line x1="0" y1="30" x2="330" y2="30" stroke="#7aa2ff" stroke-opacity=".25"/>
+<line x1="510" y1="30" x2="840" y2="30" stroke="#7aa2ff" stroke-opacity=".25"/>
+<circle class="dot" cx="352" cy="30" r="3.5" fill="#7aa2ff"/>
+<text x="366" y="34" class="m" font-size="11" fill="#7aa2ff" letter-spacing="2">EM ANDAMENTO</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="280" viewBox="0 0 840 280" role="img" aria-label="Perfil antigo: 289 contribuições desde 11 de outubro de 2023, maior sequência de 8 dias (19 a 26 de junho de 2024)">
+<style>
+  .t{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+  .sq{opacity:.12;animation:on 4s ease-out infinite}
+  @keyframes on{0%{opacity:.12}6%,80%{opacity:1}100%{opacity:.12}}
+  .run{stroke-dasharray:760;stroke-dashoffset:760;animation:draw 2.4s cubic-bezier(.4,0,.2,1) .3s forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  .pulse{animation:p 2s ease-in-out infinite;transform-origin:211.6px 229px}
+  @keyframes p{50%{opacity:.35}}
+  @media (prefers-reduced-motion:reduce){.sq{animation:none;opacity:1}.run{animation:none;stroke-dashoffset:0}.pulse{animation:none}}
+</style>
+<rect width="840" height="280" rx="18" fill="#0b0f17"/>
+<rect x=".5" y=".5" width="839" height="279" rx="17.5" fill="none" stroke="#1c2230"/>
+
+<text x="44" y="52" class="m" font-size="11" fill="#7aa2ff" letter-spacing="2">CAPÍTULO 01  ·  ARQUIVO</text>
+<text x="796" y="52" class="m" font-size="11" fill="#4b5563" text-anchor="end">github.com/JulioLage-Alx  ↗</text>
+
+<text x="42" y="148" class="t" font-size="56" font-weight="700" fill="#e6edf3" letter-spacing="-2">289</text>
+<text x="44" y="176" class="t" font-size="13" fill="#8b949e">contribuições</text>
+
+<text x="300" y="148" class="t" font-size="56" font-weight="700" fill="#e6edf3" letter-spacing="-2">2023</text>
+<text x="302" y="176" class="t" font-size="13" fill="#8b949e">primeiro commit · 11 out</text>
+
+<rect class="sq" x="560" y="128" width="20" height="20" rx="5" fill="#5584f0" style="animation-delay:0.00s"/><rect class="sq" x="586" y="128" width="20" height="20" rx="5" fill="#5584f0" style="animation-delay:0.25s"/><rect class="sq" x="612" y="128" width="20" height="20" rx="5" fill="#5584f0" style="animation-delay:0.50s"/><rect class="sq" x="638" y="128" width="20" height="20" rx="5" fill="#5584f0" style="animation-delay:0.75s"/><rect class="sq" x="664" y="128" width="20" height="20" rx="5" fill="#5584f0" style="animation-delay:1.00s"/><rect class="sq" x="690" y="128" width="20" height="20" rx="5" fill="#5584f0" style="animation-delay:1.25s"/><rect class="sq" x="716" y="128" width="20" height="20" rx="5" fill="#5584f0" style="animation-delay:1.50s"/><rect class="sq" x="742" y="128" width="20" height="20" rx="5" fill="#9dbbff" style="animation-delay:1.75s"/>
+<text x="560" y="176" class="t" font-size="13" fill="#8b949e">8 dias seguidos · 19–26 jun 2024</text>
+
+<line x1="44" y1="229" x2="796" y2="229" stroke="#1c2230" stroke-width="2" stroke-linecap="round"/>
+<line class="run" x1="44" y1="229" x2="796" y2="229" stroke="#7aa2ff" stroke-opacity=".45" stroke-width="2" stroke-linecap="round"/>
+<line x1="98.5" y1="226" x2="98.5" y2="232" stroke="#4b5563"/><text x="98.5" y="250" class="m" font-size="10" fill="#4b5563" text-anchor="middle">2024</text><line x1="341.9" y1="226" x2="341.9" y2="232" stroke="#4b5563"/><text x="341.9" y="250" class="m" font-size="10" fill="#4b5563" text-anchor="middle">2025</text><line x1="584.6" y1="226" x2="584.6" y2="232" stroke="#4b5563"/><text x="584.6" y="250" class="m" font-size="10" fill="#4b5563" text-anchor="middle">2026</text>
+<circle cx="44" cy="229" r="4" fill="#7aa2ff"/>
+<rect x="211.6" y="224" width="4.7" height="10" rx="3" fill="#9dbbff"/>
+<circle class="pulse" cx="211.6" cy="229" r="9" fill="none" stroke="#9dbbff" stroke-opacity=".6"/>
+<circle cx="796" cy="229" r="4" fill="#0b0f17" stroke="#8b949e" stroke-width="1.5"/>
+<text x="796" y="250" class="m" font-size="10" fill="#8b949e" text-anchor="end">fim</text>
+</svg>
